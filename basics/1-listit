@@ -1,3 +1,2 @@
 #!/bin/bash
-# Script to list files in the current directory
 ls
